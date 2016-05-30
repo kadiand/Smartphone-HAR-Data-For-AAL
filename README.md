@@ -16,13 +16,10 @@
        accepted for publication in 19th International Conference on Information Fusion.
 
 2. Source Information
-   -- Creators: Kadian Alicia Davis (1), Evans Boateng Owusu (2)
-     1 -- Department of Electrical, Electronic, Telecommunications Engineering and Naval Architecture (DITEN), 
-          University of Genova, Genoa - Italy
-     2 -- Independent Researcher, 
-          Eindhoven, 
-          The Netherlands
-      Donors: E. B. Owusu (owboateng@gmail.com), K. A. Davis (kadian.davis@gmail.com)  
+   -- Creators: Kadian Alicia Davis
+     -- Department of Electrical, Electronic, Telecommunications Engineering and Naval Architecture (DITEN), 
+          University of Genoa, Genoa - Italy
+     K. A. Davis (k.a.davis@tue.nl)  
    -- Date: March, 2016
  
 3. Past Usage:
