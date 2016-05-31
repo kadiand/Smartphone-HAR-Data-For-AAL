@@ -1,4 +1,4 @@
-# smartphone-HAR-data
+# Smartphone-HAR-Data-For-AAL
 1. Title: Smartphone Dataset for Human Activity Recognition (HAR) in Ambient Assisted Living (AAL)
 
 2. Relevant Information:
