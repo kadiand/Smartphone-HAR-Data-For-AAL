@@ -7,7 +7,7 @@
       a Social connectedness experiment in the domain of Ambient Assisted Living. 
       The dataset was collected from the in-built accelerometer and gyroscope of a 
       smartphone worn around the waist of participants. See waist_mounted_phone.PNG.
-      The data was collected from 30 participants within the age group of 22-79 years. 
+      The data was collected from 31 participants within the age group of 22-79 years. 
       Each activity (standing, sitting, laying, walking, walking upstairs, walking downstairs) was 
       performed for 60secs and the 3-axial linear acceleration and 3-axial angular velocity  were 
       collected at a constant rate of 50Hz.
@@ -15,13 +15,10 @@
        accepted for publication in 19th International Conference on Information Fusion.
 
 2. Source Information
-   -- Creators: Kadian Alicia Davis (1), Evans Boateng Owusu (2)
+   -- Creators: Kadian Alicia Davis (1)
      1 -- Department of Electrical, Electronic, Telecommunications Engineering and Naval Architecture (DITEN), 
           University of Genova, Genoa - Italy
-     2 -- Independent Researcher, 
-          Eindhoven, 
-          The Netherlands
-      Donors: E. B. Owusu (owboateng@gmail.com), K. A. Davis (kadian.davis@gmail.com)  
+      Donors: K. A. Davis (k.a.davis@tue.nl)  
    -- Date: March, 2016
  
 3. Past Usage:
